@@ -26,7 +26,7 @@ Este repositório traz consigo o site com os meus Pokémon preferidos!
 
 ## Demonstração
 
-<img src="./src/imagens/gif.gif" width="1000" height="1000"/>
+<img src="./src/imagens/gif.gif" width="100%" height="100%"/>
 
 
 
